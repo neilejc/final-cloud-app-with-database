@@ -1,5 +1,5 @@
   applications:
-  - name: onlinecourse
+  - name: onlinecourse-nejc
     routes:
       - route: https://final-cloud-app-with-database.eu-gb.cf.appdomain.cloud/
     memory: 128M
